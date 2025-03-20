@@ -57,6 +57,7 @@
 - [Zsteg](https://github.com/zed-0xff/zsteg) - Tool for detecting steganography in PNG and BMP files.
 - [FTK Imager](https://accessdata.com/product-download/ftk-imager-version-4-2) - Disk imaging tool for evidence collection.
 - [Strings](https://linux.die.net/man/1/strings) - Command-line tool for extracting readable characters from binary files.
+- [NetworkMiner(https://www.netresec.com/?page=NetworkMiner) - Open source network forensics tool that extracts artifacts, such as files, images, emails and passwords, from captured network traffic in PCAP files.
 
 ### 6. Miscellaneous
 - [SleuthKit](https://www.sleuthkit.org/) - Open-source digital forensics toolkit.
